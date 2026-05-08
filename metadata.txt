@@ -1,0 +1,27 @@
+[general]
+name=Map-X
+qgisMinimumVersion=3.0
+qgisMaximumVersion=4.99
+description=Advanced spatial sync & compare tool with smart Z-ordering and real-time statistical legend (Lite Version).
+version=1.0.2
+author=Jujun Junaedi
+email=jujun.junaedi@outlook.com
+license=GPL-2.0-or-later
+about=Map-X (Lite Version) is a powerful spatial comparison tool tailored for Telecommunications, RF Engineering, and Network Optimization professionals. It transforms the standard QGIS interface into a dynamic command center, allowing users to compare datasets side-by-side without the hassle of toggling layers. Key features include:
+    * Dual View Engine: Compare two maps side-by-side with draggable splitters. (Triple and Quad views are available in the Pro version).
+    * Bi-Directional Live Sync: Panning and zooming in one map instantly synchronizes across the active canvas, ensuring you never lose spatial context.
+    * Intelligent Statistical Legend: An auto-generating, compact legend that calculates real-time data distribution (Sample Count & Percentage) based strictly on the active canvas extent and priority layers.
+    * Smart Layering (Z-Order): Automatically forces critical physical infrastructure data (Sites, Gcells) to the top layer, ensuring they are never obscured by drive test data or coverage polygons.
+    * Ultra-Minimalist UI: Designed to maximize map visibility. (Layout Export and Crosshair Tracking features are available in the Pro version).
+    Upgrade to the Pro Version via Gumroad or Lynk.id to unlock up to 4 synchronized views, crosshair tracking, and layout exporting!
+tracker=https://github.com/junethtea/map-x/issues
+repository=https://github.com/junethtea/map-x
+homepage=https://github.com/junethtea/map-x
+tags=mapx, multi view, dual map, sync, drive test, telecommunications, rf engineer, network optimization, statistics
+category=Vector
+icon=icon.png
+experimental=False
+changelog=
+    1.0.2 - Rebranded to Map-X (Lite Version). Features Dual View layout, ultra-minimalist UI, and strict Z-order handling. Premium features (Triple/Quad view, Export, Crosshair) added as Pro version upgrades.
+    1.0.1 - Added real-time statistical legend engine with automatic sample count and percentage calculation. Implemented priority rendering logic.
+    1.0.0 - Initial release with basic bi-directional canvas synchronization.
