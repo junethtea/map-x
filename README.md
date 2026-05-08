@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗺️ Multi View
+# 🗺️ Map-X
 **Advanced Multi-View Analysis Tool for QGIS**
 
 [![QGIS Minimum](https://img.shields.io/badge/QGIS-3.4%2B-green.svg)](https://qgis.org/)
@@ -15,7 +15,7 @@
 
 ## 📖 About The Plugin
 
-Multi View (formerly Dual View Pro) is a powerful spatial comparison tool that allows users to compare multiple datasets (e.g., RSRP, SINR, Throughput, and Basemaps) side-by-side without the hassle of toggling layers. Whether you are analyzing Drive Test logs, correlating network quality, or generating multi-parameter reports, this tool dramatically speeds up the optimization workflow.
+Map-X is a powerful spatial comparison tool that allows users to compare multiple datasets (e.g., RSRP, SINR, Throughput, and Basemaps) side-by-side without the hassle of toggling layers. Whether you are analyzing Drive Test logs, correlating network quality, or generating multi-parameter reports, this tool dramatically speeds up the optimization workflow.
 
 ## ✨ Key Features
 
@@ -47,7 +47,8 @@ Multi View (formerly Dual View Pro) is a powerful spatial comparison tool that a
 7. Click the **▢ (Maximize)** button to focus on a single map or restore the layout.
 
 ## 📷 Capture Sample
-<img width="960" height="506" alt="Dual View Lite version" src="https://github.com/user-attachments/assets/b8a32c8f-b990-47f8-a390-a34cef8a1368" />
+<img width="960" height="507" alt="Dual View Lite Version" src="https://github.com/user-attachments/assets/db84d8b5-4d86-432c-a946-1aff13745da2" />
+
 
 
 ## ☕ Support & Donate
